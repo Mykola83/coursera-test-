@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 Watch tutorial on YouTube é.
 Do you see me?
+##Local development
+1. open index.html
 ### Header 3
 - Bulleted
 - List
